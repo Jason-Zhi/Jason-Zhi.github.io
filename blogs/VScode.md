@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /blogs/web/index.html
+permalink: /blogs/vscode/index.html
 title: vscode
 
 
