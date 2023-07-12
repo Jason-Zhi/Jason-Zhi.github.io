@@ -8,11 +8,9 @@ title: vscode
 
 ## 如何在MAC上使用VScode来写C++项目
 
-```html
-<center>
-  <img src="/blogs/vscode.assets/vscode.png">
-</center>
-```
+
+
+![vscode](vscode.assets/vscode.png)
 
 <br>
 
@@ -23,8 +21,6 @@ title: vscode
 ### 1. 下载VScode for Mac
 
 [下载地址](https://code.visualstudio.com/sha/download?build=stable&os=darwin-universal)
-
-据说无法科学上网的小伙伴说，官网下载比较慢，拷贝链接到迅雷下载速度很快。
 
 <br>
 
@@ -40,11 +36,7 @@ g++ --version
 
 如果结果类似下图，则已安装。
 
-```html
-<center>
-  <img src="/blogs/vscode.assets/g++.png">
-</center>
-```
+![g++](vscode.assets/g++.png)
 
 <br>
 
@@ -58,11 +50,7 @@ xcode-select --install
 
 ### 3. 在VSCode中安装C++插件
 
-```html
-<center>
-  <img src="/blogs/vscode.assets/plugins.png">
-</center>
-```
+![plugins](vscode.assets/plugins.png)
 
 在搜索框中搜索安装下面的两个插件：
 
