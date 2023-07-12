@@ -4,35 +4,11 @@ permalink: /blogs/index.html
 title: Blogs
 ---
 
-## Chinese Blogs
+## Blogs
 
 ### 2023
 
-- [极简风个人网站搭建指南](https://caihanlin.com/blogs/web)
-
-### 2022
-
-- [20岁，宽心且看月中桂](https://caihanlin.com/blogs/20yrs)<br>
-- [Cambridge 线上暑研回忆录](https://caihanlin.com/blogs/cambridge/)<br>
-- [暂停、暂停、暂停](https://caihanlin.com/blogs/stop/)
-
-### 2021
-
-- [19岁，山高路亦远](https://caihanlin.com/blogs/19yrs)<br>
-- [星野学社实习回忆录](https://caihanlin.com/blogs/star)
-
-### 2020
-
-- [18岁，缓慢受锤的黄金年代](https://caihanlin.com/blogs/18yrs)<br>
-- [本科博客，笔记，回忆录](https://mieclance.club/)
-
-<br>
-
-## Teaching & Workshops
-
-- [Lance的知乎付费咨询](https://www.zhihu.com/consult/people/1135256969806925824)<br>
-- [数学建模训练营](https://caihanlin.com/blogs/modeling)<br>
-- 本科飞跃计划 (Under Working)
+- [How to use VScode on Mac for C++ programming(如何在MAC上使用VScode来写C++项目)](https://https://jason-zhi.github.io/blogs/VScodeforMAC)
 
 <br>
 
