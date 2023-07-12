@@ -22,7 +22,7 @@ title: vscode
 
 ### 1. 下载VScode for Mac
 
-下载地址：https://code.visualstudio.com/sha/download?build=stable&os=darwin-universal
+[下载地址](https://code.visualstudio.com/sha/download?build=stable&os=darwin-universal)
 
 据说无法科学上网的小伙伴说，官网下载比较慢，拷贝链接到迅雷下载速度很快。
 
