@@ -1,17 +1,15 @@
 ---
 layout: page
 permalink: /blogs/web/index.html
-title: VScode
+title: vscode
 
 ---
 
 ## 如何在MAC上使用VScode来写C++项目
 
-
-
 ```html
 <center>
-  <img src="/blogs/VScode.pics/VScode.png">
+  <img src="/blogs/vscode.assets/vscode.png">
 </center>
 ```
 
@@ -43,7 +41,7 @@ g++ --version
 
 ```html
 <center>
-  <img src="/blogs/VScode.pics/g++.png">
+  <img src="/blogs/vscode.assets/g++.png">
 </center>
 ```
 
@@ -61,7 +59,7 @@ xcode-select --install
 
 ```html
 <center>
-  <img src="/blogs/VScode.pics/plugins.png">
+  <img src="/blogs/vscode.assets/plugins.png">
 </center>
 ```
 

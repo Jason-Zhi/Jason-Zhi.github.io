@@ -8,7 +8,7 @@ title: Blogs
 
 ### 2023
 
-- [在MAC上配置VScode来写C++项目](https://jason-zhi.github.io/blogs/VScode)
+- [在MAC上配置VScode来写C++项目](https://jason-zhi.github.io/blogs/vscode)
 
 <br>
 
