@@ -8,7 +8,7 @@ title: Blogs
 
 ### 2023
 
-- [How to use VScode on Mac for C++ programming(如何在MAC上使用VScode来写C++项目)](https://https://jason-zhi.github.io/blogs/VScodeforMAC)
+- [在MAC上配置VScode来写C++项目](https://jason-zhi.github.io/blogs/VScodeforMAC)
 
 <br>
 
