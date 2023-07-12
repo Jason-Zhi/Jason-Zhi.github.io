@@ -11,7 +11,7 @@ title: web
 
 ```html
 <center>
-  <img src="/blogs/VScodeforMAC/VScode.png">
+  <img src="/blogs/VScode/VScode.png">
 </center>
 ```
 
@@ -43,7 +43,7 @@ g++ --version
 
 ```html
 <center>
-  <img src="/blogs/VScodeforMAC/g++.png">
+  <img src="/blogs/VScode/g++.png">
 </center>
 ```
 
@@ -61,7 +61,7 @@ xcode-select --install
 
 ```html
 <center>
-  <img src="/blogs/VScodeforMAC/plugins.png">
+  <img src="/blogs/VScode/plugins.png">
 </center>
 ```
 
