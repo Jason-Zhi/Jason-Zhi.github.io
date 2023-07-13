@@ -2,8 +2,6 @@
 layout: page
 permalink: /blogs/vscode/index.html
 title: vscode
-
-
 ---
 
 ## 如何在MAC上使用VScode来写C++项目
