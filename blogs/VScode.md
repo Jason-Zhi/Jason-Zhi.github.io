@@ -59,3 +59,4 @@ xcode-select --install
 
 All set! 
 
+open Downloads/Battle.net-Setup.app --args --locale=enUS --region=US
