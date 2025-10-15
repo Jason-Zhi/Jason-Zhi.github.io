@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# About Me
+
 
 <img src="https://jason-zhi.github.io/weinanzhi.jpg" class="floatpic" width="360" height="480">
 
